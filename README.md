@@ -1,5 +1,4 @@
-# Wake up call :telephone_receiver:
-The wake-up call application is designed to keep calling someone until he/she wakes up.
+# Wake up call :alarm_clock:
 The algorithm works by calling a given number until the receiving end interacts with the call *(meaning that he/she woke up)* by either **answering** or **declining** the call, if the latter doesn't respond, the software will call them again until they get a **response**.
 
 ## How does it work ?
