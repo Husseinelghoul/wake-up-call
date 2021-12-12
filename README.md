@@ -7,7 +7,7 @@ The software utilizes [Twillio voice API](https://www.twilio.com/docs/voice/make
 ## Requiremtns
 If you want to use the software, you will require a computer with:
 - [python3](https://www.python.org/downloads/)
-- Twillio account [SID]("https://www.twilio.com/docs/glossary/what-is-a-sid") and [AUTH token]("https://www.twilio.com/docs/iam/access-tokens")
+- Twillio account **[SID]("https://www.twilio.com/docs/glossary/what-is-a-sid")** and **[AUTH token]("https://www.twilio.com/docs/iam/access-tokens")**
 
 ## Project Setup
 After cloning the project, navigate to the project's directory and complete the following steps:
