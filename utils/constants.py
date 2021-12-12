@@ -10,7 +10,7 @@ load_dotenv()
 
 TO = os.getenv('TO')
 FROM = os.getenv('FROM')
-LOG_LEVEL = os.getenv('LOG_LEVEL','INFO')
+LOG_LEVEL = os.getenv('LOG_LEVEL','WARNING')
 ENVIRONMENT = os.getenv('ENVIRONMENT','development')
 TWILIO_AUTH_TOKEN = os.getenv('TWILIO_AUTH_TOKEN')
 TWILIO_ACCOUNT_SID = os.getenv('TWILIO_ACCOUNT_SID')
